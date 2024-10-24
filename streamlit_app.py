@@ -19,7 +19,7 @@ if st.button('挨拶する'):
 st.slider("体重を入力してください")
 def caluculate_bmi(weight,height):
     return weight / [height ** 2]
-def interpret_bmi:
+def interpret_bmi
     if bmi < 18.5:
     return "低体重"
 elif 18.5 <= bmi < 25:
